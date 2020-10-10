@@ -1,7 +1,7 @@
 # Go Coding Challenge - Colored Trees State-Machine.
 
 <p>Count the number of edges and apply colors that do not touch.</br>
-colors are red, gree, blue</br>
+Colors are red, gree, blue</br>
 Vertex node gets 2 edges.</br>
 Last node on each side has 0 edges.</br>
 All other nodes have 1 edge.
