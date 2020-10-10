@@ -11,5 +11,8 @@ State machine that builds 2 arrays, one array for left and one for right.</br>
 Stop when number of edges is reached.</br>
 Apply colors as the tree builds.
 </p>
+<p>
+Count the color groups.
+</p>
 
 <p>(c). Ray C Horn, All RIghts Reserved.</p>
